@@ -24,7 +24,7 @@
   "dependencies": {
     "@pown/blessed": "^2.2.1",
     "@pown/credits": "^2.3.0",
-    "@pown/modules": "^2.2.1"
+    "@pown/modules": "^2.9.0"
   },
   "devDependencies": {
     "@pown/cli": "^2.10.0"
