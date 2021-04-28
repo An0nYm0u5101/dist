@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/pownjs/pown-dist#readme",
   "dependencies": {
-    "@pown/blessed": "^2.2.1",
+    "@pown/blessed": "^2.3.2",
     "@pown/credits": "^2.3.0",
     "@pown/modules": "^2.2.1"
   },
